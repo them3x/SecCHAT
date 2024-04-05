@@ -1,5 +1,5 @@
 # SecCHAT
-Projeto para um sistema de comunicação seguro.
+Projeto pessoal para criação de um sistema de comunicação seguro.
 
 
 
